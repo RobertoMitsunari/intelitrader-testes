@@ -7729,11 +7729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ExCal\\OneDrive - Fatec Centro Paula Souza\\Intelitrader\\ApiUserTests\\UserAPI_Testes\\userapi.csproj",
+      "projectUniqueName": "C:\\Users\\ExCal\\OneDrive - Fatec Centro Paula Souza\\Área de Trabalho\\Teste\\intelitrader-testes\\UserAPI_Testes\\userapi.csproj",
       "projectName": "userapi",
-      "projectPath": "C:\\Users\\ExCal\\OneDrive - Fatec Centro Paula Souza\\Intelitrader\\ApiUserTests\\UserAPI_Testes\\userapi.csproj",
+      "projectPath": "C:\\Users\\ExCal\\OneDrive - Fatec Centro Paula Souza\\Área de Trabalho\\Teste\\intelitrader-testes\\UserAPI_Testes\\userapi.csproj",
       "packagesPath": "C:\\Users\\ExCal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ExCal\\OneDrive - Fatec Centro Paula Souza\\Intelitrader\\ApiUserTests\\UserAPI_Testes\\obj\\",
+      "outputPath": "C:\\Users\\ExCal\\OneDrive - Fatec Centro Paula Souza\\Área de Trabalho\\Teste\\intelitrader-testes\\UserAPI_Testes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

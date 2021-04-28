@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/5bHLs1B7z8j7OWox27zu/4+NewUT5Q3pvZc9AzZgIZWrUl+TaTps4Ov+F9CpmPXu5BHQjkHOhqBtamLnj7hlQ==",
+  "dgSpecHash": "NXcQL/WeOQqerYiqYLQo1BXZeSMA2YBJ3bha/NJ1ZoKVe6Y6aBaYTIHPshuzKHlDn1nxzJRc5hc5K0tmow1GOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ExCal\\OneDrive - Fatec Centro Paula Souza\\Intelitrader\\ApiUserTests\\UserApi.tests\\UserApi.tests.csproj",
+  "projectFilePath": "C:\\Users\\ExCal\\OneDrive - Fatec Centro Paula Souza\\Área de Trabalho\\Teste\\intelitrader-testes\\UserApi.tests\\UserApi.tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ExCal\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ExCal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
